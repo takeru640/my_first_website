@@ -1,9 +1,225 @@
 .Mywork {
+    position: relative;
     color: black;
-    font-size:200%
-    
+    font-size:200%; 
+    margin-left: 400px;
+    margin-top: 100px;
+    height: 150px;
 }
-.Mywork{
-        position: relative;
-    margin-top:50px;
+
+.about-top {
+    position: absolute;
+    font-size: 100%;
+    right: 700px;
+    top: 100px;
+}
+.Works{
+    font-size: 100%;
+    position: absolute;
+    right:600;
+    top:100;
+}
+
+.News{
+    font-size: 100%;
+    position: absolute;
+    right: 500;
+    top: 100;
+}
+
+.Contact{
+    font-size: 100%;
+    position: absolute;
+    right: 400;
+    top: 100;
+}
+.About{
+    font-size: 200%;
+    position: absolute;
+    right:800;
+    top: 800;
+}
+.Ash{
+    font-size: 100%;
+    position:absolute;
+    right:1100;
+    top:900;
+}
+.Floor{
+    font-size: 100%;
+    position:absolute;
+    right: 600;
+    top:950;
+}
+.tel{
+    font-size: 100%;
+    position:absolute;
+    right:1045;
+    top:970;
+}
+.url{
+    font-size: 100%;
+    position:absolute;
+    right:1060;
+    top: 990;
+}
+.mail{
+    font-size: 100%;
+    position:absolute;
+    right:1050;
+    top:1010;
+}
+.pupo{
+    font-size: 100%;
+    position:absolute;
+    right:300;
+    top:1070;
+}
+.tex{
+    font-size: 100%;
+    position: absolute;
+    right:295;
+    top:1085;
+}
+.text{
+    font-size: 100%;
+    position: absolute;
+    right:915;
+    top:1100;
+}
+.wrapper {
+    position: relative;
+    margin-left: 400px;
+    margin-top: 700px;
+    display: grid;
+    grid-template-columns: repeat(3, 300px);
+    column-gap: 10px;
+    row-gap: 1em;
+  }
+.img  {
+    width: 300px;
+}
+.Wo{
+    font-size: 200%;
+    position: absolute;
+    right:800;
+    top:1300;
+}
+.Ne{
+    font-size: 200%;
+    position: absolute;
+    right: 800;
+    top: 2100;
+}
+
+.a{
+    font-size: 100%;
+    position: absolute;
+    right:1100px;
+    top: 2200;
+}
+.b{
+    font-size: 100%;
+    position: absolute;
+    right: 500px;
+    top: 2200;
+}
+.c{
+    font-size: 100%;
+    position: absolute;
+    right: 1100;
+    top: 2250px;
+}
+.d{
+    font-size: 100%;
+    position: absolute;
+    right: 500;
+    top: 2250;
+}
+.e{
+    font-size: 100%;
+    position: absolute;
+    right: 1100;
+    top: 2300;
+}
+.f{
+    font-size: 100%;
+    position: absolute;
+    right: 340;
+    top: 2300;
+}
+.g{
+    font-size: 100%;
+    position: absolute;
+    right: 1100px;
+    top: 2350;
+}
+.h{
+    font-size: 100%;
+    position: absolute;
+    right: 500;
+    top: 2350;
+}
+.i{
+    font-size: 100%;
+    position: absolute;
+    right: 1100;
+    top: 2400;
+}
+.j{
+    font-size: 100%;
+    position: absolute;
+    right: 370;
+    top: 2400;
+}
+.aa{
+    position: absolute;
+    width: 1000px;
+    height: 2px;
+    top: 2190px;
+    left: 450px;
+}
+.bb{
+    position: absolute;
+    width: 1000px;
+    height: 2px;
+    top:2230px;
+    left: 450px;
+}
+.cc{
+    position: absolute;
+    width: 1000;
+    height: 2;
+    top:2280;
+    left: 450;
+}
+.dd{
+    position: absolute;
+    width: 1000;
+    height: 2;
+    top: 2325;
+    left: 450;
+}
+.ee{
+    position: absolute;
+    width: 1000;
+    height: 2;
+    top: 2375;
+    left: 450;
+}
+.ff{
+    position: absolute;
+    width: 1000;
+    height: 2;
+    top: 2430;
+    left: 450;
+}
+.ww{
+    background-color: black;
+    width: 100%;
+    height: 20;
+    position: absolute;
+    top: 2500px;
+   color: white;
+   padding-left: 800px;
 }
